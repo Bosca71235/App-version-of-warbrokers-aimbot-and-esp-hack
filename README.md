@@ -1,8 +1,8 @@
 # App-version-of-warbrokers-aimbot-and-esp-hack
 Warbrokers.io app version Aimbot and ESP hack 
-Download the files and save them in a new folder that you need to create on your Desktop or anywhere you want
-Run the smbi.exe file wich is the injector file for the in-game hacks
-After you executed the file, just open the game and enjoy the hacks
+Download the files and save them in a new folder that you need to create on your Desktop or anywhere you want.
+Run the smbi.exe file wich is the injector file for the in-game hacks.
+After you executed the file, just open the game and enjoy the hacks.
 // Also, you can adjust in the gui-menu what do you want to use:
 GUI-MENU OPTIONS:
 
